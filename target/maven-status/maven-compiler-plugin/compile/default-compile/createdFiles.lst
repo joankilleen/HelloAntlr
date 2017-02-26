@@ -1,7 +1,15 @@
+ArrayInitVisitor.class
+ArrayInitLexer.class
 HelloListener.class
+ArrayInitParser$ValueContext.class
+ArrayInitBaseVisitor.class
+HelloLexer.class
+ArrayInitBaseListener.class
 HelloBaseVisitor.class
+ArrayInitParser$InitContext.class
 HelloBaseListener.class
 HelloVisitor.class
 HelloParser$RContext.class
-HelloLexer.class
+ArrayInitListener.class
+ArrayInitParser.class
 HelloParser.class
